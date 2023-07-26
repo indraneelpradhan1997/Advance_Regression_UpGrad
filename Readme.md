@@ -10,7 +10,7 @@
 > - A folder containing images used (Visualisations are my own, picture is from Unsplash)
 > - The data set `train.csv`
 > - The data dictionary `datainfo.txt`
-> - Answers to the Subjective Questions in pdf format `SubjectiveQuestions.pdf`
+> - Answers to the Subjective Questions in pdf format `Upgrad_Advance Regression.pdf`
 
 
 ## Table of Contents
@@ -20,20 +20,6 @@
 * [Contact](#contact)
 
 
-  
-## General Information
-  
-
-![Photo by <a href="https://unsplash.com/@erol?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Erol Ahmed</a> on <a href="https://unsplash.com/s/photos/house-before-after?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>](img/erol-ahmed-FTy5VSGIfiQ-unsplash.jpg)
-  
-
-
-
-- **General information:** 
-A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. The company is finding it very difficult to sustain in the current market scenario
-
-- **Background:** 
-A US-based housing company named Surprise Housing has decided to enter the Australian market. The company uses data analytics to purchase houses at a price below their actual values and flip them on at a higher price. For the same purpose, the company has collected a data set from the sale of houses in Australia. 
 
 - **Business problem:**
 Aim is to model the price of houses with the available independent variables. This model will then be used by the management to understand how exactly the prices vary with the variables. They can accordingly manipulate the strategy of the firm and concentrate on areas that will yield high returns. Further, the model will be a good way for management to understand the pricing dynamics of a new market.
@@ -84,8 +70,6 @@ Please see the notebook for more detailed insights.
 
 
 ## Contact
-Created by [@GeriNZ](https://github.com/GeriNZ) - feel free to contact me! <br>
-Student at UpGrad: *Master of Science in ML and AI* <br>
-© 2022
+Created by Indraneel Pradhan - feel free to contact me! <br>
 
 
